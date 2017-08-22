@@ -53,6 +53,7 @@ This is a list, in alphabetical order, of people to follow that contribute great
 - Monika Piotrowicz [@monsika](https://twitter.com/monsika)
 - Nat Tarnoff [@nattarnoff](https://twitter.com/nattarnoff)
 - Neil Milliken [@NeilMilliken](https://twitter.com/NeilMilliken)
+- Nicolas Steenhout [@vavroom](https://twitter.com/vavroom)
 - Patrick Fox [@patrickfox](https://twitter.com/patrickfox)
 - Patrick H. Lauke [@patrick_h_lauke](https://twitter.com/patrick_h_lauke)
 - Paul Adam [@pauljadam](https://twitter.com/pauljadam)
